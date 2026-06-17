@@ -38,13 +38,9 @@ A desktop calculator built using **Python & Tkinter** featuring:
 
 ## 🎥 Demo Video
 
-Demonstrates practical Python and GUI development skills.
+The project demonstrates practical Python programming, GUI development using Tkinter, scientific calculations, and unit conversion functionality.
 
-
-
-
-
-
+https://github.com/user-attachments/assets/435185c9-826f-48c5-b2f1-22e323351a9c
 
 ## 📫 Contact
 
